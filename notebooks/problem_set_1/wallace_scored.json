@@ -1,0 +1,2781 @@
+[
+  {
+    "page": 1,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks identifiable place names or distances, unclear spatial information."
+  },
+  {
+    "page": 2,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains place names but lacks specific distances or routes."
+  },
+  {
+    "page": 4,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Minimal textual or spatial information or place references."
+  },
+  {
+    "page": 5,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Amazon and Rio Negro, but no detailed spatial or distance data provided."
+  },
+  {
+    "page": 7,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations, but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 8,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed travel routes, locations, and voyage specifics."
+  },
+  {
+    "page": 9,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Wallace's travels and geographical divisions, but lacks precise spatial or distance data."
+  },
+  {
+    "page": 10,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks geographical, spatial or travel-related details."
+  },
+  {
+    "page": 11,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No geographic or travel-related details present."
+  },
+  {
+    "page": 12,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No spatial or logistical details related to travel or locations presented."
+  },
+  {
+    "page": 13,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Malay archipelago but lacks detailed spatial or logistical data."
+  },
+  {
+    "page": 15,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Lacks specific spatial and distance information; mostly general travel and narrative details."
+  },
+  {
+    "page": 16,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific locations or distances mentioned, mainly a preface and remarks."
+  },
+  {
+    "page": 17,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains place names but lacks detailed spatial or logistical data."
+  },
+  {
+    "page": 18,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains multiple place names but lacks specific distances or routes."
+  },
+  {
+    "page": 19,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains multiple geographic names and some distances related to the Amazon region."
+  },
+  {
+    "page": 22,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Insufficient information; no geographic or logistical details provided."
+  },
+  {
+    "page": 23,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Provides specific locations, distances, and place names along the Amazon voyage."
+  },
+  {
+    "page": 24,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains place names and some distances, but limited in detailed spatial data."
+  },
+  {
+    "page": 25,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions proximity to Para and half a mile from the city, limited spatial detail."
+  },
+  {
+    "page": 26,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes geographic features, city layout, and natural surroundings in detail."
+  },
+  {
+    "page": 27,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions city and surroundings but lacks specific spatial or distance details."
+  },
+  {
+    "page": 28,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific place (Para) but lacks detailed spatial or logistical data."
+  },
+  {
+    "page": 29,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Descriptive landscape and vegetation, no specific spatial or geographical details."
+  },
+  {
+    "page": 30,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes flora and general landscape but no specific travel or location details."
+  },
+  {
+    "page": 31,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific geographic locations or distances mentioned, focus on animal descriptions."
+  },
+  {
+    "page": 32,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific geographic or spatial details, mainly descriptive of insect collection."
+  },
+  {
+    "page": 33,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific spatial or logistical details; mainly descriptive of local flora and fauna."
+  },
+  {
+    "page": 34,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions river, estates, and distances across the river, but lacks detailed spatial data."
+  },
+  {
+    "page": 35,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Mainly descriptions of festivals with no spatial or logistical data."
+  },
+  {
+    "page": 36,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed description of Nazare location, nearby features, and measurements, indicating high spatial detail."
+  },
+  {
+    "page": 39,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains some place names but no detailed spatial or logistical data."
+  },
+  {
+    "page": 40,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific locations and a journey, but lacks detailed distances."
+  },
+  {
+    "page": 41,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "The excerpt describes forest ecology without specific location or travel details."
+  },
+  {
+    "page": 42,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific place names or measurable distances, focusing on environment and flora."
+  },
+  {
+    "page": 43,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes a specific location with distances and local details but lacks precise geographic coordinates."
+  },
+  {
+    "page": 44,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes trees and their uses but lacks specific place names or distances."
+  },
+  {
+    "page": 45,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific place names or distances mentioned; focus on rice mills and forest walk."
+  },
+  {
+    "page": 46,
+    "score": 3,
+    "has_place_names": false,
+    "has_distances": true,
+    "short_reason": "Mentions a forest location and a long journey to find a tree."
+  },
+  {
+    "page": 47,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes trees and flora but lacks precise spatial or distances data."
+  },
+  {
+    "page": 48,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes local flora and activities but lacks specific spatial or distance data."
+  },
+  {
+    "page": 49,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Lacks specific geographic locations or distances."
+  },
+  {
+    "page": 50,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Descriptive but lacks specific place names and detailed spatial data."
+  },
+  {
+    "page": 51,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific place names and distances; mainly descriptive of insects and environment."
+  },
+  {
+    "page": 52,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed river, location, and place descriptions provided with some distances."
+  },
+  {
+    "page": 53,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes forest exploration and animal encounters without specific place or distance details."
+  },
+  {
+    "page": 54,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names and references to paths, but lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 55,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains some references to geography (Amazon) but lacks spatial or logistical details."
+  },
+  {
+    "page": 56,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Rich details on rivers, tributaries, locations, and timber sources."
+  },
+  {
+    "page": 57,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific locations and a purchase cost, indicating some spatial and logistical details."
+  },
+  {
+    "page": 58,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Tocantins district, indicating some geographic detail."
+  },
+  {
+    "page": 59,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed account of river voyage with locations, boat specifications, and distances."
+  },
+  {
+    "page": 60,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed geographic references and some distances, but limited explicit spatial data."
+  },
+  {
+    "page": 61,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed geographic descriptions, place names, and distances."
+  },
+  {
+    "page": 62,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed spatial and travel data, including distances and place names."
+  },
+  {
+    "page": 63,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions distances and locations, but lacks specific geographic details."
+  },
+  {
+    "page": 64,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains specific place names and a measurable distance, with some spatial detail but limited geographic data."
+  },
+  {
+    "page": 65,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Baiao and possible travel plans, but no specific distances or routes given."
+  },
+  {
+    "page": 66,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Baiao and nearby village, includes some distance and location references."
+  },
+  {
+    "page": 67,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names and local features, but limited spatial and distance details."
+  },
+  {
+    "page": 68,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some geographic details and references to locations and natural features."
+  },
+  {
+    "page": 69,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Para, Patos, distances, and geographic features, providing moderate spatial details."
+  },
+  {
+    "page": 70,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes specific locations and distances, including a nearby falls and settlement details."
+  },
+  {
+    "page": 71,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific locations and a mile distance, but spatial detail is limited."
+  },
+  {
+    "page": 72,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed description of a specific route and natural features in the Amazon."
+  },
+  {
+    "page": 73,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions river width, specific locations, and island, but limited spatial detail."
+  },
+  {
+    "page": 74,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed geographical and logistical information with place names and distances."
+  },
+  {
+    "page": 75,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names and a rough distance estimate, but limited spatial detail."
+  },
+  {
+    "page": 76,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions locations like Tocantins, Panaja, and specific flora, but limited spatial detail."
+  },
+  {
+    "page": 77,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions river location but lacks detailed spatial or logistical information."
+  },
+  {
+    "page": 78,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions river, island, and locations but lacks specific distances or detailed routes."
+  },
+  {
+    "page": 79,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions river and regions but lacks specific spatial or distance details."
+  },
+  {
+    "page": 80,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Para and voyage duration; some spatial context but limited geographic detail."
+  },
+  {
+    "page": 81,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed geographic and logistical information about locations, species, and journey details."
+  },
+  {
+    "page": 82,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains some geographic and habitat details, but lacks specific spatial or distance data."
+  },
+  {
+    "page": 83,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes bird species and behaviors, mentions South America but no specific locations or distances."
+  },
+  {
+    "page": 84,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed geographic descriptions, place names, and some distances."
+  },
+  {
+    "page": 85,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains some geographic and local place references, but minimal spatial detail."
+  },
+  {
+    "page": 86,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains geographic features and place names but lacks specific distances."
+  },
+  {
+    "page": 87,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains place names and some logistical details, but lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 88,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations but provides little spatial or logistical detail."
+  },
+  {
+    "page": 89,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains specific travel methods and local geographic references, but limited place and distance details."
+  },
+  {
+    "page": 90,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed travel route with stream widths and ecological features."
+  },
+  {
+    "page": 91,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Detailed description of river course, flora, fauna, and navigation challenges."
+  },
+  {
+    "page": 92,
+    "score": 3,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "General description of travel route and surroundings, but no specific place names or distances."
+  },
+  {
+    "page": 93,
+    "score": 4,
+    "has_place_names": false,
+    "has_distances": true,
+    "short_reason": "Describes a lake, its size range, and specific details on fauna and hunting methods."
+  },
+  {
+    "page": 94,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific place names or distances mentioned; mostly descriptive of observations."
+  },
+  {
+    "page": 95,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Amazon and Para rivers, some spatial references, but lacking detailed geographic data."
+  },
+  {
+    "page": 96,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes specific places, flora, fauna, and a 10-12 mile walk route."
+  },
+  {
+    "page": 97,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes local geography, animals, and activities with some spatial details."
+  },
+  {
+    "page": 98,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed descriptions of geographic features, place names, and journey specifics."
+  },
+  {
+    "page": 99,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains geographic locations and distances related to cattle transportation."
+  },
+  {
+    "page": 100,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Ilha das Frechas but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 101,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations but lacks detailed spatial or logistical information."
+  },
+  {
+    "page": 102,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Amazon, Para, Guama River, and detailed local travel planning."
+  },
+  {
+    "page": 103,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions river, stream, and a specific distance from Para, indicating some spatial detail."
+  },
+  {
+    "page": 104,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains specific place names and travel details, with some distances implied."
+  },
+  {
+    "page": 105,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Details about a specific estate and river, but no precise spatial data or distances."
+  },
+  {
+    "page": 106,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Para and detailed plantation operations, but limited explicit spatial data."
+  },
+  {
+    "page": 107,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains general discussion, no specific spatial or distance details present."
+  },
+  {
+    "page": 108,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions river and forest, but lacks specific spatial or distance data."
+  },
+  {
+    "page": 109,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions distant places like heaven, Para, and river travel, but lacks specific spatial details."
+  },
+  {
+    "page": 110,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed descriptions of location, routes, and distances in the Amazon."
+  },
+  {
+    "page": 111,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains general descriptions but no specific spatial or logistical details."
+  },
+  {
+    "page": 112,
+    "score": 3,
+    "has_place_names": false,
+    "has_distances": true,
+    "short_reason": "Describes travel challenges and distances but lacks specific place names."
+  },
+  {
+    "page": 113,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed geographical and tidal information, including place names and flow descriptions."
+  },
+  {
+    "page": 114,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 115,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions nearby bird-watching location and a specific bird species without spatial detail."
+  },
+  {
+    "page": 116,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed travel route, place names, and a specific distance to Santarem."
+  },
+  {
+    "page": 117,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains place names and detailed river navigation but no distances."
+  },
+  {
+    "page": 118,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed description of the Amazon River's geography, flora, fauna, and travel conditions."
+  },
+  {
+    "page": 121,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed geographical references, distances, and place names along the river."
+  },
+  {
+    "page": 122,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains some spatial details about town location, terrain, and features, but lacks specific distances."
+  },
+  {
+    "page": 123,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains specific place names and some distance indicators, rich in spatial details."
+  },
+  {
+    "page": 124,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Montealegre and village location but lacks specific distances."
+  },
+  {
+    "page": 125,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions location references but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 126,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes general geographic features without specific locations or distances."
+  },
+  {
+    "page": 127,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes a river journey with some geographic features but no specific distances or place names."
+  },
+  {
+    "page": 128,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific location and a mountain, but few explicit distances or detailed spatial data."
+  },
+  {
+    "page": 129,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes terrain, landmarks, and landscape features with some distances implied."
+  },
+  {
+    "page": 130,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains geographic features, place references, and some spatial details about locations."
+  },
+  {
+    "page": 131,
+    "score": 3,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains some spatial details about cave features but limited geographic information."
+  },
+  {
+    "page": 132,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations and natural features but lacks detailed distances."
+  },
+  {
+    "page": 133,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains specific locations and travel plans but few explicit distances."
+  },
+  {
+    "page": 134,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific locations and natural features but lacks precise distances or routes."
+  },
+  {
+    "page": 135,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed travel descriptions, place names, and approximate distances."
+  },
+  {
+    "page": 136,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Amazon, Xingu, and Villa Nova, but lacks specific distances."
+  },
+  {
+    "page": 137,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names and references to river banks and locations."
+  },
+  {
+    "page": 138,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains geographic names, a specific distance to the Amazon, but limited spatial details."
+  },
+  {
+    "page": 139,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific place (Jjakra) and distance from Para; limited spatial detail."
+  },
+  {
+    "page": 140,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed river geography and specific distances, with place names."
+  },
+  {
+    "page": 141,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions a river, nearby settlement, and half-mile distance, providing moderate spatial detail."
+  },
+  {
+    "page": 142,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Rio Negro and Solimoes but lacks detailed spatial data."
+  },
+  {
+    "page": 143,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "The text describes flora, fauna, and local living conditions, but lacks specific spatial or logistical details."
+  },
+  {
+    "page": 144,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains some place references like 'Rio Negro' but limited spatial or distance details."
+  },
+  {
+    "page": 145,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Barra, river-side, and travel to Barra, indicating some spatial detail."
+  },
+  {
+    "page": 146,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several place names and a river journey, but lacks specific distances or routes."
+  },
+  {
+    "page": 147,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes travel through forest with natural landmarks but lacks specific distances."
+  },
+  {
+    "page": 148,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Rio Negro, Solimoes; references travel duration and scenery details."
+  },
+  {
+    "page": 149,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific location and distances, moderate spatial detail in the description."
+  },
+  {
+    "page": 150,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Lacks detailed spatial and distance information, primarily narrative."
+  },
+  {
+    "page": 151,
+    "score": 0,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific geographic or route information."
+  },
+  {
+    "page": 152,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Rio Negro and nearby locations, but lacks detailed spatial data."
+  },
+  {
+    "page": 153,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Amazon and lakes, but no specific locations or distances."
+  },
+  {
+    "page": 154,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Rio Negro and Barra but lacks specific spatial or distance details."
+  },
+  {
+    "page": 155,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains general geographic knowledge without specific spatial or logistical details."
+  },
+  {
+    "page": 156,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains references to specific places and some navigational details."
+  },
+  {
+    "page": 157,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mention of Rio Negro and location, but no specific distances or detailed geography."
+  },
+  {
+    "page": 158,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Rio Negro, Barra, and voyage distances, indicating some spatial detail."
+  },
+  {
+    "page": 159,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains detailed descriptions of river geography and travel conditions."
+  },
+  {
+    "page": 160,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes travel route with some place references but lacks specific distances."
+  },
+  {
+    "page": 161,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed river geography, island sizes, locations, and distances between banks and landmarks."
+  },
+  {
+    "page": 162,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes river journey with place references but lacks specific distances."
+  },
+  {
+    "page": 163,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No recognizable geographic or logistical details present."
+  },
+  {
+    "page": 165,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations and features but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 166,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed river crossing, distances, locations, and geographic features."
+  },
+  {
+    "page": 167,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Content is indecipherable and lacks recognizable geographic or spatial details."
+  },
+  {
+    "page": 169,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific locations and distances but lacks detailed spatial data."
+  },
+  {
+    "page": 170,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains clear place names and some distances, but limited spatial detail."
+  },
+  {
+    "page": 171,
+    "score": 3,
+    "has_place_names": false,
+    "has_distances": true,
+    "short_reason": "Detailed description of river crossing with distances and hazards, but no specific place names."
+  },
+  {
+    "page": 172,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed river journey with place names, features, and some distances described."
+  },
+  {
+    "page": 173,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed geographical and navigational descriptions with place names and distances."
+  },
+  {
+    "page": 174,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed descriptions of locations, personal journeys, and local geography."
+  },
+  {
+    "page": 175,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations and natural features but lacks detailed spatial or logistical data."
+  },
+  {
+    "page": 176,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed river trip with place names and distances, minimal but clear spatial information."
+  },
+  {
+    "page": 177,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes specific location details, Indigenous practices, and distances traveled in the forest."
+  },
+  {
+    "page": 178,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed travel routes, distances, and specific locations."
+  },
+  {
+    "page": 179,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Detailed description of forest terrain and experience, but lacks specific spatial data."
+  },
+  {
+    "page": 180,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some spatial descriptions and approximate distances, but limited specific geographic details."
+  },
+  {
+    "page": 181,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains some references to locations and travel context but lacks specific spatial details."
+  },
+  {
+    "page": 182,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Detailed description of terrain and travel challenges without specific distances."
+  },
+  {
+    "page": 183,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Descriptive but lacks specific spatial or logistical details."
+  },
+  {
+    "page": 184,
+    "score": 3,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains detailed travel narrative with some general spatial references but lacks specific place data."
+  },
+  {
+    "page": 185,
+    "score": 4,
+    "has_place_names": false,
+    "has_distances": true,
+    "short_reason": "Detailed account of a specific expedition route and camp location."
+  },
+  {
+    "page": 186,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Rio Negro and local sites but lacks specific distances or detailed geography."
+  },
+  {
+    "page": 187,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific places but lacks detailed spatial or logistical information."
+  },
+  {
+    "page": 188,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": true,
+    "short_reason": "Mentions Rio Negro, but lacks specific spatial or distance details."
+  },
+  {
+    "page": 189,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed navigation and travel route information with specific places."
+  },
+  {
+    "page": 190,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Provides some geographic details, place names, and distances, but lacks detailed spatial data."
+  },
+  {
+    "page": 191,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains mention of specific locations and a river connection, but limited detailed spatial data."
+  },
+  {
+    "page": 192,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains specific place names and a narrative involving river navigation and distances."
+  },
+  {
+    "page": 193,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific spatial or logistical details are provided."
+  },
+  {
+    "page": 194,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names and a brief mention of distances, but limited spatial detail."
+  },
+  {
+    "page": 195,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed river description, location, and nearby village with distances."
+  },
+  {
+    "page": 196,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed description of the road, landscape, and geography of the region."
+  },
+  {
+    "page": 197,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed river locations, plant descriptions, and some distances."
+  },
+  {
+    "page": 198,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several place names but lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 199,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names but minimal spatial or logistical detail."
+  },
+  {
+    "page": 200,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes journey, logistics, and some place names, but no distances."
+  },
+  {
+    "page": 201,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes travel route with some landmarks but lacks specific spatial data."
+  },
+  {
+    "page": 202,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains place names and some distances, but not very detailed."
+  },
+  {
+    "page": 203,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Javfta and river conditions, but no specific distances or detailed locations."
+  },
+  {
+    "page": 204,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains place names, some distances, and detailed travel and geographic descriptions."
+  },
+  {
+    "page": 205,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains logistical details about road and bridge construction, with some place names and distances mentioned."
+  },
+  {
+    "page": 206,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains place names and vague spatial references but lacks detailed distances or navigation data."
+  },
+  {
+    "page": 207,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains local geographic features and a specific location, but lacks explicit distances."
+  },
+  {
+    "page": 208,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Rich spatial detail with descriptions of village layout, plants, and local life."
+  },
+  {
+    "page": 209,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific geographic or spatial detail, focusing instead on cultural description."
+  },
+  {
+    "page": 210,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains some geographic references and personal account but limited spatial detail."
+  },
+  {
+    "page": 211,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions village, forest, and plantation but no specific distances or detailed spatial data."
+  },
+  {
+    "page": 212,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions rivers, locations, and distances, but with limited precise spatial detail."
+  },
+  {
+    "page": 213,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions various geographical locations and natural features with some detail."
+  },
+  {
+    "page": 214,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations but lacks detailed distances or routes."
+  },
+  {
+    "page": 215,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Tamo and local locations but lacks detailed spatial or logistical data."
+  },
+  {
+    "page": 216,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Marabitanas, mentions distances within 50-100 miles, navigational details."
+  },
+  {
+    "page": 217,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Guia, Rio Negro, Barra, and Uaupes but lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 218,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed river journey with place names and some indications of travel difficulty."
+  },
+  {
+    "page": 219,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes river navigation, land crossings, and known resting points with some spatial details."
+  },
+  {
+    "page": 220,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific place names or distances; detailed description of a structure."
+  },
+  {
+    "page": 221,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific geographic locations or measurements; mainly descriptive narrative."
+  },
+  {
+    "page": 222,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed descriptions of locations, distances, and geographical features along the Rio Negro."
+  },
+  {
+    "page": 223,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains place names and some spatial context, but limited coordinate or distance details."
+  },
+  {
+    "page": 224,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Descriptive but lacks specific geographic or spatial details."
+  },
+  {
+    "page": 225,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions a river branch, journey, and place names, but lacks specific distances or detailed logistics."
+  },
+  {
+    "page": 226,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes river locations, nearby village, and specific distances, indicating detailed spatial context."
+  },
+  {
+    "page": 227,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed description of river features, pathways, and measurements."
+  },
+  {
+    "page": 228,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains place names, some distances, but details are moderate."
+  },
+  {
+    "page": 230,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No spatial or logistical details provided in the plate reference."
+  },
+  {
+    "page": 231,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations and natural features, but no detailed distances or routes."
+  },
+  {
+    "page": 232,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific locations and comparative food prices."
+  },
+  {
+    "page": 233,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes food, drinks, and a dance; minimal spatial or logistical detail."
+  },
+  {
+    "page": 234,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes location details of a dance but lacks explicit spatial coordinates or distances."
+  },
+  {
+    "page": 235,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific locations or distances mentioned; focuses on ornament description."
+  },
+  {
+    "page": 236,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": true,
+    "short_reason": "Describes local cultural and dance activities with some spatial orientation."
+  },
+  {
+    "page": 237,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains cultural and logistical details but lacks specific geographic or distance data."
+  },
+  {
+    "page": 238,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Lacks detailed spatial and navigational information, mostly descriptive."
+  },
+  {
+    "page": 239,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific locations and a time frame, but few detailed spatial or logistical data."
+  },
+  {
+    "page": 240,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific location names but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 241,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names and a specific route description, but limited detailed spatial data."
+  },
+  {
+    "page": 242,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names and mentions a dangerous passage, but limited spatial detail."
+  },
+  {
+    "page": 243,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes specific locations, distances, and seasonal travel details."
+  },
+  {
+    "page": 244,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Sao Jeronymo and a mile back, indicating some spatial detail."
+  },
+  {
+    "page": 245,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific location Sao Jeronymo but lacks detailed spatial data."
+  },
+  {
+    "page": 246,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains general travel and local incident descriptions without specific spatial details."
+  },
+  {
+    "page": 247,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific place names but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 248,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific places but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 249,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Details about location and travel delays, but no precise spatial or distance data."
+  },
+  {
+    "page": 250,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed travel route with pilot info and river landmarks."
+  },
+  {
+    "page": 251,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains some place names but limited specific distances or detailed spatial data."
+  },
+  {
+    "page": 252,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific river locations and a river entry, indicating some spatial detail."
+  },
+  {
+    "page": 253,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Mentions locations indirectly but lacks specific detailed spatial or logistical data."
+  },
+  {
+    "page": 254,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific locations and dates but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 255,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Para, Barra, and references travel preparations, but lacks specific spatial or distance details."
+  },
+  {
+    "page": 256,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains some place names and travel details but lacks precise distances or detailed spatial info."
+  },
+  {
+    "page": 257,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several place names but lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 258,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Rio Negro and specific location, but lacks explicit distances or detailed routes."
+  },
+  {
+    "page": 259,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific location, lake, and measurements but limited spatial detail."
+  },
+  {
+    "page": 260,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes travel and settlement details but lacks precise spatial data."
+  },
+  {
+    "page": 261,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes storms and river conditions, no specific travel distances or place names."
+  },
+  {
+    "page": 262,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions a specific river, a sitio, and a person, but no distances or detailed spatial data."
+  },
+  {
+    "page": 263,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific geographic locations or distances mentioned."
+  },
+  {
+    "page": 264,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Rio Negro and Brazil but lacks specific distances and detailed spatial data."
+  },
+  {
+    "page": 265,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Someplace names mentioned, but no specific distances or detailed spatial data provided."
+  },
+  {
+    "page": 266,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations but lacks detailed spatial or travel data."
+  },
+  {
+    "page": 267,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several place names but no explicit distances or detailed spatial data."
+  },
+  {
+    "page": 268,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several place names but lacks specific distances or spatial details."
+  },
+  {
+    "page": 269,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific locations, canoe journey, and Indian interactions with some distances implied."
+  },
+  {
+    "page": 270,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Detailed navigation and place references on the Rio Negro, but no exact distances mentioned."
+  },
+  {
+    "page": 271,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Detailed description of river features, rapids, and specific place names, but no explicit distances."
+  },
+  {
+    "page": 272,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed river navigation and village interactions described, showing rich spatial detail."
+  },
+  {
+    "page": 273,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions river width, islands, and local tribes, but limited specific spatial detail."
+  },
+  {
+    "page": 274,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions various place names and travel conditions, but lacks specific distances or locations."
+  },
+  {
+    "page": 275,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several geographical features and place names, but lacks specific distances."
+  },
+  {
+    "page": 276,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains some geographic references but lacks specific place names or distances."
+  },
+  {
+    "page": 277,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed river navigation, local place names, and distances."
+  },
+  {
+    "page": 278,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Detailed travel narrative with place references but no explicit distances."
+  },
+  {
+    "page": 279,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Limited spatial detail, mainly narrative with minimal geographic information."
+  },
+  {
+    "page": 280,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes river journey with some place names and logistical details, but limited specific distances."
+  },
+  {
+    "page": 281,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names and general distances, but lacks precise spatial data."
+  },
+  {
+    "page": 282,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed river travel and local place names included."
+  },
+  {
+    "page": 283,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains spatial details like river names, locations, and travel activities."
+  },
+  {
+    "page": 284,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions river and locations but lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 285,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names and mentions distances and navigation details."
+  },
+  {
+    "page": 286,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several river locations and minor geographic features, but no explicit distances."
+  },
+  {
+    "page": 287,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific locations and travel actions but minimal spatial detail."
+  },
+  {
+    "page": 288,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains some place names and travel details but lacks explicit distances."
+  },
+  {
+    "page": 289,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions river, localities, and navigation details, but lacks specific distances."
+  },
+  {
+    "page": 290,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed location names, river mile markers, and specific places."
+  },
+  {
+    "page": 291,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Para and Barra, but lacks specific spatial or distance details."
+  },
+  {
+    "page": 292,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific places but lacks detailed spatial or logistical data."
+  },
+  {
+    "page": 293,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific place names and detailed travel or spatial information."
+  },
+  {
+    "page": 294,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions locations like Para and Brazil, but lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 295,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "The excerpt lacks specific place names and detailed spatial/logistical information."
+  },
+  {
+    "page": 296,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific spatial or distance details; mainly descriptive of social conditions."
+  },
+  {
+    "page": 297,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions specific places, a voyage start, and details about birds and animals, but limited spatial detail."
+  },
+  {
+    "page": 298,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed river journey with place names, navigational details, and distances."
+  },
+  {
+    "page": 299,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains specific place names and approximate distances but lacks detailed spatial data."
+  },
+  {
+    "page": 300,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Narrative lacks specific geographic or spatial detail."
+  },
+  {
+    "page": 301,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks spatial or logistical detail, focuses on a narrative scene."
+  },
+  {
+    "page": 302,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations like Para and Nazar\u00e9 but no detailed spatial data."
+  },
+  {
+    "page": 303,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains geographic coordinates and specific locations, but lacks detailed spatial/logistical data."
+  },
+  {
+    "page": 304,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Limited spatial detail, focuses on ship emergency rather than geographic specifics."
+  },
+  {
+    "page": 305,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific place names or distances mentioned, limited spatial detail."
+  },
+  {
+    "page": 306,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific place names or distances mentioned, focus is on event description."
+  },
+  {
+    "page": 307,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains specific references to Bermuda and distances; moderate spatial detail."
+  },
+  {
+    "page": 308,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed navigational data, coordinates, and geographic references."
+  },
+  {
+    "page": 309,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains geographic coordinates and ship details, but limited spatial context."
+  },
+  {
+    "page": 310,
+    "score": 4,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes a voyage with weather phenomena and ship handling details, but no specific locations or distances."
+  },
+  {
+    "page": 311,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Deal and voyage duration but lacks specific spatial or logistical details."
+  },
+  {
+    "page": 312,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Describes large regions and major rivers but lacks specific spatial details or distances."
+  },
+  {
+    "page": 313,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains specific geographic locations, distances, and detailed river descriptions."
+  },
+  {
+    "page": 314,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several rivers and their water characteristics but lacks specific spatial details."
+  },
+  {
+    "page": 315,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes various rivers and their characteristics but lacks specific distances and detailed geography."
+  },
+  {
+    "page": 316,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains river courses, elevations, and distances but lacks precise locations for detailed mapping."
+  },
+  {
+    "page": 317,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some geographic references, elevations, and distances but lacks detailed spatial mapping."
+  },
+  {
+    "page": 318,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed spatial and hydrological data with some place names and distances."
+  },
+  {
+    "page": 319,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Rich spatial/logistical details about rivers, channels, and currents in the Amazon region."
+  },
+  {
+    "page": 320,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed description of rivers, streams, and geographic features with some place names."
+  },
+  {
+    "page": 321,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains specific place names, distances, and detailed spatial descriptions."
+  },
+  {
+    "page": 322,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some place names and approximate distances, but limited in spatial detail."
+  },
+  {
+    "page": 323,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Detailed descriptions of rivers, paths, and distances indicate rich spatial information."
+  },
+  {
+    "page": 324,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed mentions of geographic features, place names, and elevations."
+  },
+  {
+    "page": 326,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes geological features but lacks spatial or travel details."
+  },
+  {
+    "page": 327,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains detailed geographic features and specific location references."
+  },
+  {
+    "page": 328,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains place names and geological locations, but limited detailed spatial or logistical info."
+  },
+  {
+    "page": 329,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains no geographic or travel-related information."
+  },
+  {
+    "page": 331,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions geographic features and regions but lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 332,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Discusses geological and hydrological processes without specific locations or distances."
+  },
+  {
+    "page": 334,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains place names but lacks explicit distances or detailed spatial data."
+  },
+  {
+    "page": 335,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mostly climate description with minimal spatial or logistical detail."
+  },
+  {
+    "page": 336,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes climate zones and seasonal patterns without precise spatial or distance data."
+  },
+  {
+    "page": 337,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks identifiable geographic or logistical details, only mentions plate reference."
+  },
+  {
+    "page": 339,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions Rio Negro, Amazon, and specific location details but with limited spatial granularity."
+  },
+  {
+    "page": 340,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains specific location names and detailed geographic distances."
+  },
+  {
+    "page": 341,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions multiple geographic locations but lacks specific distances."
+  },
+  {
+    "page": 342,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes regions, rivers, and districts but lacks specific distances or precise spatial data."
+  },
+  {
+    "page": 343,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains specific place names and detailed descriptions of location and resource distribution."
+  },
+  {
+    "page": 344,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions rivers and regions but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 345,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Amazon, but lacks specific spatial or logistical details."
+  },
+  {
+    "page": 346,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific geographic or travel-related details are provided."
+  },
+  {
+    "page": 347,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains place names but no detailed spatial or logistical information."
+  },
+  {
+    "page": 348,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific geographic locations or distances mentioned."
+  },
+  {
+    "page": 349,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Amazon Valley and tropical scenery but lacks precise locations or distances."
+  },
+  {
+    "page": 350,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific locations or distances mentioned, focus on general zoological observations."
+  },
+  {
+    "page": 351,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Lists various localities and species but minimal spatial detail."
+  },
+  {
+    "page": 352,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains some geographic context but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 353,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Manaquery and Amazon district, but lacks spatial or distance details."
+  },
+  {
+    "page": 354,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "No explicit spatial or travel-related details are present."
+  },
+  {
+    "page": 355,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains multiple place and animal names but lacks specific distances or navigation details."
+  },
+  {
+    "page": 356,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific geographic or logistical details."
+  },
+  {
+    "page": 357,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains animal and local knowledge, no specific geographic or spatial data."
+  },
+  {
+    "page": 358,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Amazon and tributaries but lacks specific spatial or distance details."
+  },
+  {
+    "page": 359,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Amazon district and rivers but lacks detailed spatial data."
+  },
+  {
+    "page": 360,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "No significant spatial or logistical detail is present."
+  },
+  {
+    "page": 361,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions geographical locations without specific distances or detailed spatial data."
+  },
+  {
+    "page": 362,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Limited geographic detail, mainly general descriptions of Amazon reptiles and fishes."
+  },
+  {
+    "page": 363,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes specific locations and natural features but lacks detailed spatial or logistical information."
+  },
+  {
+    "page": 364,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed descriptions of animal locations and fishing methods, not general travel data."
+  },
+  {
+    "page": 365,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes Rio Negro area with species but lacks specific spatial or distance data."
+  },
+  {
+    "page": 366,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains place names and some spatial references, but no detailed distances or coordinates."
+  },
+  {
+    "page": 367,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Amazon and tributaries but lacks specific spatial or distance data."
+  },
+  {
+    "page": 368,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains some geographic and species distribution information, but lacks specific spatial details or distances."
+  },
+  {
+    "page": 369,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific locations and regional bird distributions."
+  },
+  {
+    "page": 370,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains detailed geographical and species range data with place names and boundaries."
+  },
+  {
+    "page": 371,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Discusses indigenous tribes and locations but lacks specific spatial or distance details."
+  },
+  {
+    "page": 372,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains detailed ethnographic descriptions, no spatial or logistical data."
+  },
+  {
+    "page": 373,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions rivers and tribes but lacks precise spatial or distance data."
+  },
+  {
+    "page": 374,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions multiple tribes and river locations but lacks specific spatial or distance data."
+  },
+  {
+    "page": 375,
+    "score": 4,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains multiple place names and rivers with some distances mentioned."
+  },
+  {
+    "page": 376,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific geographic or spatial coordinates provided."
+  },
+  {
+    "page": 377,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": true,
+    "short_reason": "Mentions a mile or two distant fields, but lacks detailed spatial data."
+  },
+  {
+    "page": 378,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific geographic or logistical details."
+  },
+  {
+    "page": 379,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Describes fishing methods and locations but lacks detailed spatial data."
+  },
+  {
+    "page": 380,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes fishing methods and water features but lacks specific locations and distances."
+  },
+  {
+    "page": 381,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains some location references but lacks specific spatial details or distances."
+  },
+  {
+    "page": 382,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No explicit spatial or logistical details are provided."
+  },
+  {
+    "page": 383,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions river Uaupes; lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 384,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions Amazon and tribes, but lacks specific locations or distances."
+  },
+  {
+    "page": 385,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific place names or distances mentioned; details are cultural."
+  },
+  {
+    "page": 386,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific geographic or spatial details, focusing on cultural descriptions only."
+  },
+  {
+    "page": 387,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific geographic or logistical details provided."
+  },
+  {
+    "page": 388,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific geographic or travel-related details are provided."
+  },
+  {
+    "page": 389,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions rivers and Uaupes, but lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 390,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Limited spatial detail, mainly list of artifacts without specific locations or distances."
+  },
+  {
+    "page": 391,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No geographic or spatial details, only domestic items listed."
+  },
+  {
+    "page": 393,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Lacks specific geographic or travel-related details."
+  },
+  {
+    "page": 394,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Contains place names but lacks specific distances or detailed spatial data."
+  },
+  {
+    "page": 395,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "List of domestic items, no spatial or logistical details provided."
+  },
+  {
+    "page": 397,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions rivers and tribes but lacks detailed spatial or distance data."
+  },
+  {
+    "page": 398,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions rivers and tribes but lacks specific spatial or distance details."
+  },
+  {
+    "page": 399,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several geographic locations but lacks specific distances."
+  },
+  {
+    "page": 400,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Mentions rivers and travel times between tribes but lacks detailed spatial data."
+  },
+  {
+    "page": 401,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No specific spatial or distance details provided."
+  },
+  {
+    "page": 402,
+    "score": 2,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Describes some locations like prayas and riverbanks, but lacks specific spatial data."
+  },
+  {
+    "page": 403,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions specific rivers and regions but lacks precise spatial or distance data."
+  },
+  {
+    "page": 404,
+    "score": 2,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several place names but lacks specific distances or detailed spatial information."
+  },
+  {
+    "page": 405,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Minimal text, no spatial or travel details present."
+  },
+  {
+    "page": 407,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "The excerpt lacks specific place names or distances, focusing on cultural descriptions."
+  },
+  {
+    "page": 408,
+    "score": 3,
+    "has_place_names": true,
+    "has_distances": false,
+    "short_reason": "Mentions several specific locations but lacks detailed spatial or logistical data."
+  },
+  {
+    "page": 409,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Image caption with no spatial or logistical details."
+  },
+  {
+    "page": 411,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "The page describes rock figures but lacks geographic or spatial details."
+  },
+  {
+    "page": 413,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "The page discusses a library of books, not geographic or travel data."
+  },
+  {
+    "page": 414,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "No geographic or travel-related details present in the text."
+  },
+  {
+    "page": 415,
+    "score": 1,
+    "has_place_names": true,
+    "has_distances": true,
+    "short_reason": "Contains references to South Africa and related travel/tour details."
+  },
+  {
+    "page": 416,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Contains a list of book titles and prices, no geographic or spatial data."
+  },
+  {
+    "page": 419,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Insufficient spatial or logistical detail in the excerpt."
+  },
+  {
+    "page": 420,
+    "score": 1,
+    "has_place_names": false,
+    "has_distances": false,
+    "short_reason": "Insufficient geographic or travel detail present."
+  }
+]
